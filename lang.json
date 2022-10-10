@@ -1,0 +1,389 @@
+{
+  "eng": {
+    "barTitles": {
+      "home": "Home",
+      "categories": "Categories",
+      "favorites": "Favorites",
+      "profile": "My Profile",
+      "more": "More"
+    },
+    "headerTitles": {
+      "categories": "Categories",
+      "shoppingCart": "Shopping Cart",
+      "favorites": "Favorites",
+      "categoriesFiltered": "Assortment",
+      "termOfUse": "Term of use",
+      "shippingReturns": "Shipping Returns",
+      "privacyPolicy": "Privacy Policy",
+      "aboutUs": "About Us",
+      "changeAddress": "Change address"
+    },
+
+    "homePage": {
+      "categories": "Categories",
+      "specialOffers": "Special offers",
+      "bestsellers": "Bestsellers",
+      "all": "All"
+    },
+    "search": {
+      "placeholder": "Search"
+    },
+    "productCard": {
+      "shoppingCart": "Add to cart"
+    },
+    "shoppingCartPage": {
+      "emptyCartMessage": "Your Shopping Cart is empty",
+      "price": "Subtotal։  ",
+      "shippingAddress": "Delivery address",
+      "deliveryTime":"Delivery time",
+      "deliveryTimePlaceholder": "Select the delivery time",
+      "bonus": "Accumulated bonus",
+      "cost": "Cost",
+      "shipment": "Delivery",
+      "totalPrice":"Total",
+      "recipient": "Recipient",
+      "paymentMethod": "Payment method",
+      "bonusCard":"Bonus card",
+      "bonusUnit": "Bonus"
+    },
+    "favoritesPage": {
+      "emptyMessage": "Favorites list is empty"
+    },
+    "errors": {
+      "invalidInput": "Invalid input"
+    },
+    "button": {
+      "next": "Next",
+      "signIn": "Sign in",
+      "signUp": "Sign up",
+      "continue": "Continue",
+      "show": "Show",
+      "addToCart": "Add to cart",
+      "emptyTheCart": "Delete all items",
+      "addItems": "Add items",
+      "orderProcessing": "Order processing",
+      "order": "Order",
+      "save": "Save",
+      "return": "Return",
+      "signOut": "Sign out",
+      "saveChanges": "Save changes",
+      "addNewAddress": "Add new address",
+      "addAddress": "Add address",
+      "more": "More",
+      "send": "Send"
+    },
+    "placeholder": {
+        "firstname": "First Name",
+        "lastname": "Last Name",
+        "email": "Email",
+        "phone": "Phone number"
+    },
+    "auth": {
+        "dontHaveAnAccount" :"Don't have an account?",
+        "accept":"I accept the",         
+        "termsOfUse": "terms of use",
+        "haveAnAccount": "Have an account",
+        "verifyTitle":"Enter SMS code to confirm registration",
+        "createAccount": "Create an account",
+        "sendAgain": "Send again",
+        "sendMessage": "Enter the 4-digit number",
+        "smsNoSendMessage": "Did not receive the SMS code?"
+
+          
+    },
+    "productDetails": {
+      "discount": "discounted price",
+      "manufacturer": "Manufacturer",
+      "description": "Description",
+      "similarProducts": "Similar products"
+      
+    },
+    "filter": {
+      "priceRange": "Price range",
+      "category": "Category",
+      "discount" : "Discount"
+    },
+    "profile": {
+      "addresses": "Addresses",
+      "notifications": "Notifications",
+      "orders": "My orders",
+      "bonusCard": "Bonus card"
+    },
+    "more": {
+      "settings": "Settings",
+      "language": "Language",
+      "notification": "Notification",
+      "about": "About Seemon",
+      "privacyPolicy": "Privacy Policy",
+      "contactUs": "Contact us"
+    },
+    "settings": {
+      "notDiscount": "Notifications about discounts, promo codes and special prices",
+      "notOrder":"Order status notifications",
+      "notEmail": "Messages about discounts and orders",
+      "discount": "Discount",
+      "deliveries": "Deliveries",
+      "email": "Email"
+      
+    }
+  },
+  "ru": {
+    "barTitles": {
+      "home": "Главная",
+      "categories": "Каталог",
+      "favorites": "Избранное",
+      "profile": "Профиль",
+      "more": "Другое"
+    },
+    "headerTitles": {
+      "categories": "Каталог",
+      "shoppingCart": "Корзина ",
+      "favorites": "Избранное",
+      "categoriesFiltered": "Ассортимент",
+      "termOfUse": "Условия пользования",
+      "shippingReturns": "Возврат доставки",
+      "privacyPolicy": "Политика конфиденциальности",
+      "aboutUs": "О нас",
+      "changeAddress": "Изменить адрес"
+    },
+    "homePage": {
+      "categories": "Каталог",
+      "specialOffers": "Спецпредложения",
+      "bestsellers": "Самые продаваемые",
+      "all": "Все"
+    },
+    "search": {
+      "placeholder": "Поиск"
+    },
+    "productCard": {
+      "shoppingCart": "Добавить в корзину"
+    },
+    "shoppingCartPage": {
+      "emptyCartMessage": "Ваша Корзина пуста",
+      "price": "Сумма:  ",
+      "shippingAddress": "Адрес доставки",
+      "deliveryTime":"Время доставки",
+      "deliveryTimePlaceholder": "Выберите время доставки",
+      "bonus": "Накопленный бонус",
+      "cost": "Стоимость",
+      "shipment": "Доставка",
+      "totalPrice":"Общая стоимость",
+      "recipient": "Получатель",
+      "paymentMethod": "Способ оплаты",
+      "bonusCard":"Бонусная карта",
+      "bonusUnit": "Бонус"
+
+    },
+    "favoritesPage": {
+      "emptyMessage": "Список избранных продуктов пуст"
+    },
+    "errors": {
+      "invalidInput": "Неправильное значение"
+    },
+    "button": {
+      "next": "Дальше",
+      "signIn": "Войти",
+      "signUp": "Зарегистрироваться",
+      "continue": "Продолжить",
+      "show": "Показать",
+      "addToCart": "Добавить в корзину",
+      "emptyTheCart": "Очистить корзину",
+      "addItems": "Добавить",
+      "orderProcessing": "Обработка заказа",
+      "order": "Заказать",
+      "save": "Сохранить",
+      "return": "Назад",
+      "signOut": "Выход",
+      "saveChanges": "Сохранить изменения",
+      "addNewAddress": "Добавить новый адрес",
+      "addAddress": "Добавить адрес",
+      "more": "Больше",
+      "send": "Отправить"
+    },
+    "placeholder": {
+        "firstname": "Имя",
+        "lastname": "Фамилия",
+        "email": "Эл. адрес",
+        "phone": "Телефонный номер"
+
+    },
+    "auth": {
+        "dontHaveAnAccount" :"Нет учетной записи?",
+        "accept":"Я принимаю",         
+        "termsOfUse": "условия использования",
+        "haveAnAccount": "У вас есть аккаунт?",
+        "verifyTitle":"Введите SMS-код для подтверждения регистрации",
+        "createAccount": "Завести аккаунт",
+        "sendAgain": "Отправить еще раз",
+        "sendMessage": "Введите 4-значный номер",
+        "smsNoSendMessage": "Не получили SMS-код?"
+
+        
+    },
+    "productDetails": {
+      "discount": "цена со скидкой",
+      "manufacturer": "Производитель",
+      "description": "Описание",
+      "similarProducts": "Похожие продукты"
+    },
+    "filter": {
+      "priceRange": "Ценовой диапазон",
+      "category": "Категория",
+      "discount" : "Скидка"
+    },
+    "profile": {
+      "addresses": "Адреса",
+      "notifications": "Уведомления",
+      "orders": "Мои заказы",
+      "bonusCard": "Бонусная карта"
+    },
+    "more": {
+      "settings": "Настройки",
+      "language": "Язык",
+      "notification": "Уведомления",
+      "about": "О Симоне",
+      "privacyPolicy": "Политика конфиденциальности",
+      "contactUs": "Связаться с нами"
+    },
+
+    
+    "settings": {
+      "notDiscount": "Уведомления о скидках, промокодах и специальных ценах",
+      "notOrder":"Уведомления о статусе заказа",
+      "notEmail": "Сообщения о скидках и заказах",
+      "discount": "Скидки",
+      "deliveries": "Доставки",
+      "email": "Эл. адрес"
+    }
+   
+  },
+  "arm": {
+    "barTitles": {
+      "home": "Գլխավոր",
+      "categories": "Կատեգորիաներ",
+      "favorites": "Նախընտրելի",
+      "profile": "Իմ էջը",
+      "more": "Ավելին"
+    },
+    "headerTitles": {
+      "categories": "Կատեգորիաներ",
+      "shoppingCart": "Իմ Զամբյուղը",
+      "favorites": "Նախընտրելի",
+      "categoriesFiltered": "Տեսականի",
+      "termOfUse": "Օգտագործման պայմանները",
+      "shippingReturns": "Պատվեր և վերադարձ",
+      "privacyPolicy": "Գաղտնիության քաղաքականություն ",
+      "aboutUs": "Մեր մասին",
+      "changeAddress": "Փոխել հասցեն"
+      
+    },
+    "homePage": {
+      "categories": "Կատեգորիաներ",
+      "specialOffers": "Հատուկ առաջարկներ",
+      "bestsellers": "Ամենաշատ վաճառվածները",
+      "all": "Բոլորը"
+    },
+    "search": {
+      "placeholder": "Որոնել"
+    },
+    "productCard": {
+      "shoppingCart": "Զամբյուղ"
+    },
+    "shoppingCartPage": {
+      "emptyCartMessage": "Դուք դեռ ապրանք չունեք",
+      "price": "Գումարը՝ ",
+      "shippingAddress": "Առաքման հասցե",
+      "deliveryTime":"Առաքման ժամ",
+      "deliveryTimePlaceholder": "Ընտրեք առաքման ժամը",
+      "bonus": "Կուտակած բոնուս",
+      "cost": "Արժեք",
+      "shipment": "Առաքում",
+      "totalPrice":"Ընդհանուր", 
+      "recipient": "Ստացող",
+      "paymentMethod": "Վճարման տարբերակ",
+      "bonusCard":"Բոնուս քարտ",
+      "bonusUnit": "Բոնուս"
+    },
+    "favoritesPage": {
+      "emptyMessage": "Դուք չունեք նախընտրելի ապրանքներ"
+    },
+    "errors": {
+      "invalidInput": "Սխալ արժեք"
+    },
+    "button": {
+      "next": "Հաջորդ",
+      "signIn": "Մուտք գործել",
+      "signUp": "Գրանցվել",
+      "continue": "Շարունակել",
+      "show": "Ցուցադրել",
+      "addToCart": "Ավելացնել զամբյուղ",
+      "emptyTheCart": "Դատարկել Զամբյուղը",
+      "addItems": "Ավելացնել ապրանքներ",
+      "orderProcessing": "Պատվերի ձևակերպում",
+      "order": "Պատվիրել",
+      "save": "Պահպանել",
+      "return": "Վերադառնալ",
+      "signOut": "Դուրս գալ",
+      "saveChanges": "Պահպանել փոփոխությունները",
+      "addNewAddress": "Ավելացնել նոր հասցե",
+      "addAddress": "Ավելացնել հասցե",
+      "more": "Ավելին",
+      "send": "Ուղարկել"
+    },
+    "placeholder": {
+        "firstname": "Անուն",
+        "lastname": "Ազգանուն",
+        "email": "Էլ. հասցե",
+        "phone": "Հեռախոսահամար*"
+
+    },
+    "auth": {
+        "dontHaveAnAccount" :"Չունե՞ք հաշիվ",
+        "accept":"Ընդունում եմ",
+        "termsOfUse": "օգտագործման պայմանները",
+        "haveAnAccount": "Ունե՞ք հաշիվ",
+        "verifyTitle":"Մուտքագրեք SMS կոդը գրանցումը հաստատելու համար",
+        "createAccount": "Ստեղծել հաշիվ",
+        "sendAgain": "Կրկին ուղարկել",
+        "sendMessage": "Մուտքագրեք 4 նիշանոց թիվը",
+        "smsNoSendMessage": "Չե՞ք ստացել SMS կոդը"
+
+    },
+    
+    "productDetails": {
+      "discount": "զեղչված գին",
+      "manufacturer": "Արտադրող",
+      "description": "Նկարագրություն",
+      "similarProducts": "Նմանատիպ ապրանքներ"
+    },
+    "filter": {
+      "priceRange": "Գնային միջակայք",
+      "category": "Կատեգորիա",
+      "discount" : "Զեղչ"
+    },
+    "profile": {
+      "addresses": "Հասցեներ",
+      "notifications": "Ծանուցումներ",
+      "orders": "Իմ պատվերները",
+      "bonusCard": "Բոնուս քարտ"
+    }
+    ,
+    "more": {
+      "settings": "Կարգավորումներ",
+      "language": "Լեզու",
+      "notification": "Ծանուցումներ ",
+      "about": "Սիմոնի մասին",
+      "privacyPolicy": "Գաղտնիության քաղաքականություն",
+      "contactUs": "Կապ մեզ հետ"
+    },
+    "settings": {
+      "notDiscount": "Ծանուցումներ զեղչերի, պրոմո կոդերի և հատուկ գների մասին",
+      "notOrder":"Ծանուցումներ պատվերի կարգավիճակի մասին",
+      "notEmail": "Հաղորդագրություններ զեղչերի և պատվերների մասին",
+      "discount": "Զեղչեր",
+      "deliveries": "Առաքումներ",
+      "email": "Էլ. հասցե"
+    }
+    
+  }
+}

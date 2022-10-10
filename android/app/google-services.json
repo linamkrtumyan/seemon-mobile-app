@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655388793262",
+    "project_id": "seemon-4eefe",
+    "storage_bucket": "seemon-4eefe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655388793262:android:09ac65b7186c714b82503f",
+        "android_client_info": {
+          "package_name": "com.seemonam.seemon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655388793262-bmk1a6ar63qhl9sift7ms95uhacigu3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbz7PrkxCpDk_CUFuXqnHOcjXpCNatHWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655388793262-bmk1a6ar63qhl9sift7ms95uhacigu3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
